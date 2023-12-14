@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F338B9E4-5682-4BF9-8292-BA1F1B9ED6B9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A2DC7DA-4885-4C23-9B1E-E96EA824B8B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FarmingApp/ui/views/AnasayfaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AnasayfaViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8A2DC7DA-4885-4C23-9B1E-E96EA824B8B1 - 31ee10d334db8422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FarmingApp.AnasayfaViewController.urunlerListesi.getter : Swift.Array&lt;FarmingApp.Urunler&gt;"
+                  moduleName = "FarmingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhagergin/Desktop/project/FarmingApp/FarmingApp/ui/views/AnasayfaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8A2DC7DA-4885-4C23-9B1E-E96EA824B8B1 - 96f877469795a836"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FarmingApp.AnasayfaViewController.urunlerListesi.setter : Swift.Array&lt;FarmingApp.Urunler&gt;"
+                  moduleName = "FarmingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhagergin/Desktop/project/FarmingApp/FarmingApp/ui/views/AnasayfaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "8A2DC7DA-4885-4C23-9B1E-E96EA824B8B1 - 64b084cba387e127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FarmingApp.AnasayfaViewController.urunlerListesi.modify : Swift.Array&lt;FarmingApp.Urunler&gt;"
+                  moduleName = "FarmingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhagergin/Desktop/project/FarmingApp/FarmingApp/ui/views/AnasayfaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8A2DC7DA-4885-4C23-9B1E-E96EA824B8B1 - b31a797c8788d56c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FarmingApp.AnasayfaViewController.urunlerListesi.modify : Swift.Array&lt;FarmingApp.Urunler&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FarmingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhagergin/Desktop/project/FarmingApp/FarmingApp/ui/views/AnasayfaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8A2DC7DA-4885-4C23-9B1E-E96EA824B8B1 - f5aab292ea1ae64c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FarmingApp.AnasayfaViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FarmingApp.AnasayfaViewController"
+                  moduleName = "FarmingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhagergin/Desktop/project/FarmingApp/FarmingApp/ui/views/AnasayfaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "8A2DC7DA-4885-4C23-9B1E-E96EA824B8B1 - a33b346e9ee07a8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FarmingApp.AnasayfaViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FarmingApp.AnasayfaViewController&gt;"
+                  moduleName = "FarmingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhagergin/Desktop/project/FarmingApp/FarmingApp/ui/views/AnasayfaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
